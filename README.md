@@ -15,7 +15,7 @@
 [https://www.bilibili.com/video/BV1Sx4y1o7qD/](https://www.bilibili.com/video/BV1Sx4y1o7qD/)**
 
  
-[https://github.com/ynwynw/allProject](https://github.com/ynwynw/allProject)**
+[https://github.com/zhengjianzhong0107/allProject](https://github.com/zhengjianzhong0107/allProject)**
 
 ## 基于Springboot+Vue的宠物店猫咖管理系统(源代码+数据库)088
 
